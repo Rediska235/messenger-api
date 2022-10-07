@@ -1,5 +1,5 @@
 # Messenger API
-> ASP.NET Core Web-Api project
+> ASP.NET Core Web API project
 
 ## Explanation
 
